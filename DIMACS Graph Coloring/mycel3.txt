@@ -1,7 +1,7 @@
 c FILE: myciel3.col
 c SOURCE: Michael Trick (trick@cmu.edu)
 c DESCRIPTION: Graph based on Mycielski transformation. 
-p edge 11 20
+p edge 11 20 4
 e 1 2
 e 1 4
 e 1 7
